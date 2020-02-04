@@ -1,9 +1,10 @@
 {
   "name": "scrapinghomework",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "mongo scraper homework",
+  "main": "server.js",
   "scripts": {
+    "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
